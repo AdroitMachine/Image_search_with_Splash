@@ -1,0 +1,1 @@
+An app to search images via Splash API.
